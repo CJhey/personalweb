@@ -7,6 +7,8 @@ title = 'CJRH'
 enableRobotsTXT = true
 summaryLength = 15
 paginate = 5
+relativeURLs = true
+canonifyURLs = true
 
 
 [markup]
