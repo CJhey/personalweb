@@ -1,11 +1,9 @@
 ---
-title: "Claudio Rodríguez H.'s personal website"
+title: "Hi!"
 draft: false
 ---
 
-## Hi!
 Welcome to my personal website! I'm Claudio. This is a personal website for my academic interests!
-
 
 
 **About me:**
@@ -18,3 +16,5 @@ I mainly publish in topics on:
 3. Culture and cognition
 
 I'm also interested in areas like the intertextuality of art forms and their roles in and beyond philosophy; language, semantic implementation and embodied cognition; philosophy of science and the humanities; and more broadly, language and metaphysics.
+
+> **_NOTE:_**  For my publications, check my ResearchGate link on top!
