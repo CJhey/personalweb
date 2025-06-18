@@ -1,7 +1,9 @@
 ---
-title: "Hi!"
+title: "Claudio Rodríguez H.'s personal website"
 draft: false
 ---
+
+## Hi!
 Welcome to my personal website! I'm Claudio. This is a personal website for my academic interests!
 
 
