@@ -1,25 +1,25 @@
 User-agent: *
 
-Disallow: /categories/
+Disallow: /personalweb/categories/
 
-Disallow: /tags/hello/
+Disallow: /personalweb/categories/hello/
 
-Disallow: /categories/hello/
+Disallow: /personalweb/tags/hello/
 
-Disallow: /
+Disallow: /personalweb/
 
-Disallow: /posts/markdown-cheat-sheet/
+Disallow: /personalweb/posts/markdown-cheat-sheet/
 
-Disallow: /posts/
+Disallow: /personalweb/posts/
 
-Disallow: /tags/
+Disallow: /personalweb/tags/
 
-Disallow: /tags/whatsapp/
+Disallow: /personalweb/tags/whatsapp/
 
-Disallow: /categories/css/
+Disallow: /personalweb/categories/css/
 
-Disallow: /about/
+Disallow: /personalweb/about/
 
-Disallow: /categories/javascript/
+Disallow: /personalweb/categories/javascript/
 
-Disallow: /categories/uncategories/
+Disallow: /personalweb/categories/uncategories/

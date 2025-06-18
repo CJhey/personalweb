@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://cjhey.github.io/personalweb/categories/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/hello/</loc>
+    <loc>https://cjhey.github.io/personalweb/categories/hello/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/hello/</loc>
+    <loc>https://cjhey.github.io/personalweb/tags/hello/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://cjhey.github.io/personalweb/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/markdown-cheat-sheet/</loc>
+    <loc>https://cjhey.github.io/personalweb/posts/markdown-cheat-sheet/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://cjhey.github.io/personalweb/posts/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://cjhey.github.io/personalweb/tags/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/whatsapp/</loc>
+    <loc>https://cjhey.github.io/personalweb/tags/whatsapp/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/css/</loc>
+    <loc>https://cjhey.github.io/personalweb/categories/css/</loc>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://cjhey.github.io/personalweb/about/</loc>
   </url><url>
-    <loc>http://example.org/categories/javascript/</loc>
+    <loc>https://cjhey.github.io/personalweb/categories/javascript/</loc>
   </url><url>
-    <loc>http://example.org/categories/uncategories/</loc>
+    <loc>https://cjhey.github.io/personalweb/categories/uncategories/</loc>
   </url>
 </urlset>
