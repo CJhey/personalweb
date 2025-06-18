@@ -2,4 +2,4 @@
 title: "Post"
 header: "Latest Posts" # Optional
 ---
-See What I’ve Written Lately
+Some ideas and thoughts, in blog form!
