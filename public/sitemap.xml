@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/CJhey/personal-academic/categories/</loc>
+    <loc>https://github.com/CJhey/personal-academic/categories/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/CJhey/personal-academic/tags/hello/</loc>
+    <loc>https://github.com/CJhey/personal-academic/categories/hello/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/CJhey/personal-academic/categories/hello/</loc>
+    <loc>https://github.com/CJhey/personal-academic/tags/hello/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/CJhey/personal-academic/</loc>
+    <loc>https://github.com/CJhey/personal-academic/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/CJhey/personal-academic/posts/markdown-cheat-sheet/</loc>
+    <loc>https://github.com/CJhey/personal-academic/posts/markdown-cheat-sheet/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/CJhey/personal-academic/posts/</loc>
+    <loc>https://github.com/CJhey/personal-academic/posts/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/CJhey/personal-academic/tags/</loc>
+    <loc>https://github.com/CJhey/personal-academic/tags/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/CJhey/personal-academic/tags/whatsapp/</loc>
+    <loc>https://github.com/CJhey/personal-academic/tags/whatsapp/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/CJhey/personal-academic/categories/css/</loc>
+    <loc>https://github.com/CJhey/personal-academic/categories/css/</loc>
   </url><url>
-    <loc>http://localhost:1313/CJhey/personal-academic/about/</loc>
+    <loc>https://github.com/CJhey/personal-academic/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/CJhey/personal-academic/categories/javascript/</loc>
+    <loc>https://github.com/CJhey/personal-academic/categories/javascript/</loc>
   </url><url>
-    <loc>http://localhost:1313/CJhey/personal-academic/categories/uncategories/</loc>
+    <loc>https://github.com/CJhey/personal-academic/categories/uncategories/</loc>
   </url>
 </urlset>
