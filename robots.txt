@@ -2,11 +2,11 @@ User-agent: *
 
 Disallow: /personalweb/categories/
 
-Disallow: /personalweb/
-
 Disallow: /personalweb/categories/hello/
 
 Disallow: /personalweb/tags/hello/
+
+Disallow: /personalweb/
 
 Disallow: /personalweb/posts/markdown-cheat-sheet/
 
