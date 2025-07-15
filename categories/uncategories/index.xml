@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncategories on Claudio J. Rodríguez H.</title>
-    <link>https://cjhey.github.io/personalweb/categories/uncategories/</link>
+    <link>claudiorh.com/categories/uncategories/</link>
     <description>Recent content in Uncategories on Claudio J. Rodríguez H.</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
-    <atom:link href="https://cjhey.github.io/personalweb/categories/uncategories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="claudiorh.com/categories/uncategories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
