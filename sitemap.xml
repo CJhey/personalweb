@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>claudiorh.com/categories/</loc>
+    <loc>https://claudiorh.com/categories/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>claudiorh.com/categories/hello/</loc>
+    <loc>https://claudiorh.com/categories/hello/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>claudiorh.com/tags/hello/</loc>
+    <loc>https://claudiorh.com/tags/hello/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>claudiorh.com/</loc>
+    <loc>https://claudiorh.com/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>claudiorh.com/posts/markdown-cheat-sheet/</loc>
+    <loc>https://claudiorh.com/posts/markdown-cheat-sheet/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>claudiorh.com/posts/</loc>
+    <loc>https://claudiorh.com/posts/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>claudiorh.com/tags/</loc>
+    <loc>https://claudiorh.com/tags/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>claudiorh.com/tags/whatsapp/</loc>
+    <loc>https://claudiorh.com/tags/whatsapp/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>claudiorh.com/categories/css/</loc>
+    <loc>https://claudiorh.com/categories/css/</loc>
   </url><url>
-    <loc>claudiorh.com/about/</loc>
+    <loc>https://claudiorh.com/about/</loc>
   </url><url>
-    <loc>claudiorh.com/categories/javascript/</loc>
+    <loc>https://claudiorh.com/categories/javascript/</loc>
   </url><url>
-    <loc>claudiorh.com/categories/uncategories/</loc>
+    <loc>https://claudiorh.com/categories/uncategories/</loc>
   </url>
 </urlset>

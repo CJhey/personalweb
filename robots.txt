@@ -1,25 +1,25 @@
 User-agent: *
 
-Disallow: claudiorh.com/categories/
+Disallow: /categories/
 
-Disallow: claudiorh.com/categories/hello/
+Disallow: /categories/hello/
 
-Disallow: claudiorh.com/tags/hello/
+Disallow: /tags/hello/
 
-Disallow: claudiorh.com/
+Disallow: /
 
-Disallow: claudiorh.com/posts/markdown-cheat-sheet/
+Disallow: /posts/markdown-cheat-sheet/
 
-Disallow: claudiorh.com/posts/
+Disallow: /posts/
 
-Disallow: claudiorh.com/tags/
+Disallow: /tags/
 
-Disallow: claudiorh.com/tags/whatsapp/
+Disallow: /tags/whatsapp/
 
-Disallow: claudiorh.com/categories/css/
+Disallow: /categories/css/
 
-Disallow: claudiorh.com/about/
+Disallow: /about/
 
-Disallow: claudiorh.com/categories/javascript/
+Disallow: /categories/javascript/
 
-Disallow: claudiorh.com/categories/uncategories/
+Disallow: /categories/uncategories/
