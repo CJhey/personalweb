@@ -2,17 +2,25 @@ User-agent: *
 
 Disallow: /categories/
 
-Disallow: /categories/hello/
+Disallow: /categories/conferences/
 
-Disallow: /tags/hello/
+Disallow: /tags/conferences/
 
 Disallow: /
 
-Disallow: /posts/markdown-cheat-sheet/
+Disallow: /posts/ish25porto/
+
+Disallow: /tags/misc/
 
 Disallow: /posts/
 
 Disallow: /tags/
+
+Disallow: /categories/hello/
+
+Disallow: /tags/hello/
+
+Disallow: /posts/markdown-cheat-sheet/
 
 Disallow: /tags/whatsapp/
 
