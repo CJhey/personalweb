@@ -16,14 +16,6 @@ Disallow: /posts/
 
 Disallow: /tags/
 
-Disallow: /categories/hello/
-
-Disallow: /tags/hello/
-
-Disallow: /posts/markdown-cheat-sheet/
-
-Disallow: /tags/whatsapp/
-
 Disallow: /categories/css/
 
 Disallow: /about/
