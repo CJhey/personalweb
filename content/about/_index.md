@@ -19,6 +19,8 @@ header: "CV" # Optional
 
 ### Selected articles and chapters
 
+Please check my ResearchGate page!
+
 ### Selected monographs and edited books
 
 - **2023**: _Biosocial World: Approaches to Biosemiotics_. Edited with Juan R. Coca. University of Valladolid Press.
