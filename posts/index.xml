@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Mon, 21 Jul 2025 11:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 12:11:14 +0100</lastBuildDate>
     <atom:link href="https://claudiorh.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Murcia</title>
+      <link>https://claudiorh.com/posts/murcia/</link>
+      <pubDate>Mon, 17 Nov 2025 12:11:14 +0100</pubDate>
+      <guid>https://claudiorh.com/posts/murcia/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m relocating to Murcia, Spain, for the beginning of a project! I will write a bit more about it once the dust settles! Very excited!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ISH25 Porto</title>
       <link>https://claudiorh.com/posts/ish25porto/</link>

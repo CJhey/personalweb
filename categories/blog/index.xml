@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi! on Claudio J. Rodríguez H.</title>
-    <link>https://claudiorh.com/</link>
-    <description>Recent content in Hi! on Claudio J. Rodríguez H.</description>
+    <title>Blog on Claudio J. Rodríguez H.</title>
+    <link>https://claudiorh.com/categories/blog/</link>
+    <description>Recent content in Blog on Claudio J. Rodríguez H.</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
     <lastBuildDate>Mon, 17 Nov 2025 12:11:14 +0100</lastBuildDate>
-    <atom:link href="https://claudiorh.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://claudiorh.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Murcia</title>
       <link>https://claudiorh.com/posts/murcia/</link>
       <pubDate>Mon, 17 Nov 2025 12:11:14 +0100</pubDate>
       <guid>https://claudiorh.com/posts/murcia/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m relocating to Murcia, Spain, for the beginning of a project! I will write a bit more about it once the dust settles! Very excited!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ISH25 Porto</title>
-      <link>https://claudiorh.com/posts/ish25porto/</link>
-      <pubDate>Mon, 21 Jul 2025 11:14:00 +0000</pubDate>
-      <guid>https://claudiorh.com/posts/ish25porto/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m currently at the ISHPSSB 2025 conference! And there is a small chance you got here because maybe you saw a slide somewhere, so I just wanted to say hi!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

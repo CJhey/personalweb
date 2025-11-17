@@ -1,20 +1,26 @@
 User-agent: *
 
+Disallow: /categories/blog/
+
 Disallow: /categories/
+
+Disallow: /
+
+Disallow: /posts/murcia/
+
+Disallow: /posts/
+
+Disallow: /tags/projects/
+
+Disallow: /tags/
 
 Disallow: /categories/conferences/
 
 Disallow: /tags/conferences/
 
-Disallow: /
-
 Disallow: /posts/ish25porto/
 
 Disallow: /tags/misc/
-
-Disallow: /posts/
-
-Disallow: /tags/
 
 Disallow: /categories/css/
 
