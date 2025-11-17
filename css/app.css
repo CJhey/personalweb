@@ -953,6 +953,10 @@ video {
 .stroke-2 {
   stroke-width: 2;
 }
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 .py-10 {
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
