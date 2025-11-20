@@ -8,7 +8,8 @@ Welcome to my personal website! I'm Claudio. This is a personal website for my a
 
 **About me:**
 
-I'm an assistant professor (_odborný asistent_) at the Department of General Linguistics, Faculty of Arts, Palacký University, Olomouc, Czech Republic. Previously I completed my PhD at the University of Tartu, Estonia, at the Department of Semiotics, where I focused on biosemiotics.
+I'm a postdoctoral research fellow at the University of Murcia, Spain, under an MSCA CZ (OP-JAK) fellowship. My current research project is entitled [ECO-MINDS](https://cjhey.github.io/eco-minds/), where I look at plant cognition, the basis of meaning-making and the creation of value for organisms.
+I'm also an assistant professor (_odborný asistent_) at the Department of General Linguistics, Faculty of Arts, Palacký University, Olomouc, Czech Republic. Previously I completed my PhD at the University of Tartu, Estonia, at the Department of Semiotics, where I focused on biosemiotics.
 I mainly publish in topics on:
 
 1. Biosemiotics

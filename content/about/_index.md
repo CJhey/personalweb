@@ -6,6 +6,7 @@ header: "CV" # Optional
 
 ## Positions
 
+- **2025--2027**: Postdoctoral research fellow (MSCA CS/OP-JAK), MINTLab, Faculty of Philosophy, University of Murcia, Spain
 - **2020--current**: Assistant professor (_odborný asistent_), Department of General Linguistics, Palacký University, Czech Republic
 - **2018--2020**: Postdoctoral researcher, Department of General Linguistics, Palacký University, Czech Republic
 
@@ -19,7 +20,7 @@ header: "CV" # Optional
 
 ### Selected articles and chapters
 
-Please check my ResearchGate page!
+Please check my ResearchGate page for my papers!
 
 ### Selected monographs and edited books
 
