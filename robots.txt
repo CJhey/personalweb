@@ -1,10 +1,12 @@
 User-agent: *
 
+Disallow: /crossing-half-a-continent/
+
+Disallow: /
+
 Disallow: /categories/blog/
 
 Disallow: /categories/
-
-Disallow: /
 
 Disallow: /posts/murcia/
 
