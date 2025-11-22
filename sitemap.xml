@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://claudiorh.com/crossing-half-a-continent/</loc>
+    <loc>https://claudiorh.com/posts/crossing-half-a-continent/</loc>
     <lastmod>2025-11-22T11:17:18+01:00</lastmod>
   </url><url>
     <loc>https://claudiorh.com/</loc>
+    <lastmod>2025-11-22T11:17:18+01:00</lastmod>
+  </url><url>
+    <loc>https://claudiorh.com/posts/</loc>
     <lastmod>2025-11-22T11:17:18+01:00</lastmod>
   </url><url>
     <loc>https://claudiorh.com/categories/blog/</loc>
@@ -15,9 +18,6 @@
     <lastmod>2025-11-17T12:11:14+01:00</lastmod>
   </url><url>
     <loc>https://claudiorh.com/posts/murcia/</loc>
-    <lastmod>2025-11-17T12:11:14+01:00</lastmod>
-  </url><url>
-    <loc>https://claudiorh.com/posts/</loc>
     <lastmod>2025-11-17T12:11:14+01:00</lastmod>
   </url><url>
     <loc>https://claudiorh.com/tags/projects/</loc>
