@@ -20,5 +20,5 @@ I mainly publish in topics on:
 
 I'm also interested in areas like the intertextuality of art forms and their roles in and beyond philosophy; language, semantic implementation and embodied cognition; philosophy of science and the humanities; and more broadly, language and metaphysics.
 
-> [NOTE]
+> **_NOTE:_**
 > For my publications, check my ResearchGate link on top!
