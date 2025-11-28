@@ -18,9 +18,12 @@ header: "CV" # Optional
 
 ## Publications
 
-### Selected articles and chapters
+### Recent articles and chapters
 
-Please check my ResearchGate page for my papers!
+* Rodríguez Higuera, C. J. (2025). Are there grounded semantics in (model) organisms? _BioSystems_, 257, 105606. https://doi.org/10.1016/j.biosystems.2025.105606
+* Rodríguez Higuera, C. J. (2025). The Metaethics of Meaning-Making: Jonathan Birch’s the Edge of Sentience. _Biosemiotics_. https://doi.org/10.1007/s12304-025-09595-0
+
+Please check my [ResearchGate](https://www.researchgate.net/profile/Claudio-Rodriguez-Higuera) page for the rest of my papers!
 
 ### Selected monographs and edited books
 
