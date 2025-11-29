@@ -1,33 +1,3 @@
 User-agent: *
-
-Disallow: /posts/crossing-half-a-continent/
-
-Disallow: /
-
-Disallow: /posts/
-
-Disallow: /categories/blog/
-
-Disallow: /categories/
-
-Disallow: /posts/murcia/
-
-Disallow: /tags/projects/
-
-Disallow: /tags/
-
-Disallow: /categories/conferences/
-
-Disallow: /tags/conferences/
-
-Disallow: /posts/ish25porto/
-
-Disallow: /tags/misc/
-
-Disallow: /categories/css/
-
-Disallow: /about/
-
-Disallow: /categories/javascript/
-
-Disallow: /categories/uncategories/
+Allow: /
+Sitemap: https://claudiorh.com/sitemap.xml
