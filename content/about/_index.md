@@ -20,6 +20,7 @@ header: "CV" # Optional
 
 ### Recent articles and chapters
 
+* Rodríguez Higuera, C. J. & Coca, J. R. (2025). Joint Agency as a Semiotic and Biosocial Phenomenon. _Foundations of Science_, online first. https://doi.org/10.1007/s10699-025-10012-5
 * Rodríguez Higuera, C. J. (2025). Are there grounded semantics in (model) organisms? _BioSystems_, 257, 105606. https://doi.org/10.1016/j.biosystems.2025.105606
 * Rodríguez Higuera, C. J. (2025). The Metaethics of Meaning-Making: Jonathan Birch’s the Edge of Sentience. _Biosemiotics_. https://doi.org/10.1007/s12304-025-09595-0
 
