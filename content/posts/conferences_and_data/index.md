@@ -1,5 +1,5 @@
 ---
-title: "Conferences_and_data"
+title: "Conferences and data analysis"
 date: 2026-11-03T17:43:00+01:00
 draft: false # Set 'false' to publish
 tableOfContents: false # Enable/disable Table of Contents
